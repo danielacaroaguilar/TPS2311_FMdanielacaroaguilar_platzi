@@ -9,3 +9,4 @@ console.log({h1,p,parrafito,pid,input,});
 
 
 h1.innerHTML= 'patito <br> feo'
+h1.innerText= 'patito <br> feo'

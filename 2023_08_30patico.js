@@ -12,3 +12,10 @@ h1.innerHTML= 'patito <br> feo'
 h1.innerText= 'patito <br> feo'
 consolw.log(h1.getAttribute('class'));
 h1.setAttribute('class', 'rojo') ;
+
+h1.classList.add ('rojo');
+h1.classList.remove('verde');
+
+imput.value ="456"
+
+const img = document

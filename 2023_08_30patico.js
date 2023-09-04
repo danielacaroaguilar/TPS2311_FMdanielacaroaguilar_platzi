@@ -11,3 +11,4 @@ console.log({h1,p,parrafito,pid,input,});
 h1.innerHTML= 'patito <br> feo'
 h1.innerText= 'patito <br> feo'
 consolw.log(h1.getAttribute('class'));
+h1.setAttribute('class', 'rojo') ;
